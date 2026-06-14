@@ -34,6 +34,15 @@ Je combine rigueur analytique, curiosité technique et sens business pour produi
 
 ## 🚀 Projets Phares
 
+### 🌱 [H&M — Transformer la collecte textile en levier de croissance](https://github.com/caroleponsbachmann-bit/fashion-retail-data-analysis)
+
+**Objectif :** Transformer un programme de collecte textile en opportunité business mesurable, du tri à l'impact CO₂.
+
+- **Missions :** Pipeline Python complet (extraction, nettoyage, géocodage), modélisation SQL en étoile et dashboard Power BI ; estimation de l'empreinte carbone évitée à partir de sources officielles (ADEME, ECO-TLC, INSEE).
+- **Impact :** 576 tonnes de CO₂ évitées estimées, segmentation client et analyse de performance commerciale sur un échantillon de 14,8 M de transactions.
+- **Stack :** Python (pandas, DuckDB, SciPy) | SQL | Power BI | DAX
+- 👉 [**Démo Interactive**](https://app.powerbi.com/view?r=eyJrIjoiYmE3ZDk3N2YtY2JlZS00NDIzLWI1OGEtMTc2MjhjMTA1ZDkyIiwidCI6IjJlMzgyMzJkLTJhOTUtNGI2YS04MzY3LWYxY2NhYTg5YTg3MSJ9)
+
 ### 🧩 [Toys & Models (entreprise fictive de vente de modèles réduits) — Dashboard de Pilotage Décisionnel](https://github.com/caroleponsbachmann-bit/Toys-Models-Project)
 
 **Objectif :** Transformer une base de données brute en outil décisionnel complet.
@@ -58,8 +67,8 @@ Je combine rigueur analytique, curiosité technique et sens business pour produi
 
 ## 📘 Parcours & Expériences
 
-* **2025–Présent : Data Analyst (Formation)** | Wild Code School
-    * Collecte, transformation et visualisation de données.
+- **2025–2026 : Certification professionnelle Data Analyst (RNCP 37429 — Niveau 6)** | Wild Code School
+    * Certifiée le 11/03/2026. Collecte, préparation, automatisation du traitement des données & analyse, modélisation et visualisation.
 * **2013–2025 : Responsable des Ventes & Gestionnaire de Transport** | Scop Atmosph’airre
     * Optimisation de tournées (réduction CO2) et pilotage de la relation client (3500 clients).
 * **2002–2012 : Commerciale & Commerciale itinérante** | Handi Terre 85 / Scop Atmosph’airre
